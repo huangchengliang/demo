@@ -1,0 +1,70 @@
+
+#main_wrapper{
+    border-right: 8px solid #f2f2f2;
+    border-top: 8px solid #f2f2f2;
+    width: 390px;
+    height: 430px;
+    border-bottom: 8px solid #f2f2f2;
+    margin: 200px 700px;
+}
+#list{
+    width: 390px;
+    height: 46px;
+    background: #f7faf9;
+}
+#list h1{
+    display: block;
+    font-weight: 900;
+    color: #69a88f;
+    font-size: 20px;
+    float: left;
+    padding: 11px 0 0 20px;
+    border-left: 8px solid #69a88f;
+}
+#list a{
+    display: block;
+    font-weight: normal;
+    color: #999999;
+    font-size: 14px;
+    float: right;
+    padding: 15px 15px 0 0px;
+}
+.icon{
+    width: 16px;
+    height: 16px;
+    border: 1px solid #999999;
+    border-radius: 100%;
+    float: right;
+}
+.swiper-container {
+    width: 397px;
+    height: 396px;
+}
+.swiper-slide {
+
+}
+.swiper-slide>img {
+    width: 350px;
+    height: 150px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.swiper-slide h2{
+    font-size: 18px;
+    color: #222222;
+    height: 48px;
+    line-height: 48px;
+    margin-left: 70px;
+}
+.swiper-slide p{
+    font-size: 14px;
+    color: #9999b2;
+    height: 20px;
+    line-height: 20px;
+    padding-left: 20px;
+}
+.images>img{
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+}
